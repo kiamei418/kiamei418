@@ -1,4 +1,4 @@
-## hi!!
+## hi!! my name is aslı and i'm a 2nd year CS student at bilkent university
 
 <!--
 **kiamei418/kiamei418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
