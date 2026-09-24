@@ -1,4 +1,4 @@
-## My name is Aslı Budak and I'm a 1st year CS student at Bilkent University
+## hi!!
 
 <!--
 **kiamei418/kiamei418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
